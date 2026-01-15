@@ -1,7 +1,12 @@
 #include <stdio.h>
 
-double sumArr(double myxxx[]) {
+double sumArrDouble(double myxxx[]) {
+    return 0.0;
+}
 
+float sumArrFloat(float arr[]) {
+
+    return 0.0;
 }
 
 int main() {
